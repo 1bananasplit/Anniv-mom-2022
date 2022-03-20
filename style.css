@@ -24,6 +24,13 @@ body{
     overflow: hidden;
     
 }
+.mom-face{
+    position: absolute;
+    border-radius: 50%;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50% -50%);
+}
 span{
     position: absolute;
     pointer-events: none;
